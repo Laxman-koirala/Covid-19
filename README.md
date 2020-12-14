@@ -20,7 +20,7 @@ The web app will help one to stay updated with the Covid-19. Mainly there will b
 
 Core functionality:
  
-Signup, Login, logout and password Change ---> privacy purpose of you health status, || create view (Total page: 4)
+Signup, Login, logout and password Change ---> privacy of health status: create view (Total page: 4)
 
 Lot of questions: List view (Total page: 1)
 
