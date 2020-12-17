@@ -3,7 +3,6 @@
 
 ## Team member's name
 
-```
 LUCKY OGOGO
 
 MD ASHRAF AHMED 
@@ -12,7 +11,6 @@ YAHYA BAHOS
 
 LAXMAN KOIRALA
 
-```
 
 # Project Discription
 
